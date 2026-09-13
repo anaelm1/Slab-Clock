@@ -28,6 +28,3 @@ PCB
 
 ## Firmware Overview
 This project is coded in C++ and ran on the arduino IDE. The firmware is not 100% written by me. I adapted the code from https://github.com/PieSquared/TTTsaboard/blob/main/Firmware/FW.ino#L47C4-L49C7
-
-## Info:
-This macropad is made as part of the Hack Club Hackpad program! 
