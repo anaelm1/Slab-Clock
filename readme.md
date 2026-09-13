@@ -3,10 +3,10 @@
 Slab Clock is a 4 key alaram clock with a screen to display time and a buzzer for alarms. 
 
 ## Features:
-- 3D printed body designed to be chunky like a slab. 
+- 3D printed body designed to be chunky like a slab
 - 2.25in TFT Screen
 - Alarm buzzer
-- 4 Keys .
+- 4 Keys 
 
 
 ## CAD Model:
