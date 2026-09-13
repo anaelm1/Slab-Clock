@@ -12,7 +12,7 @@ Slab Clock is a 4 key alaram clock with a screen to display time and a buzzer fo
 ## CAD Model:
 It has 2 separate printed pieces. The base where the PCB sits, and the top cover. The project name and my name is engraved on the top plate as well. It also has the screen cutout on the side rather than the front.
 
-<img src=Assets/body rendered.PNG alt="Model" />
+<img src=Assets/body2.PNG alt="Model" />
 
 Made in Fusion360. 
 
