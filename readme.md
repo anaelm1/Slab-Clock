@@ -27,4 +27,19 @@ PCB
 <img src=Assets/pcb.PNG alt="Schematic" width =300 />
 
 ## Firmware Overview
-This project is coded in C++ and ran on the arduino IDE. The firmware is not 100% written by me. I adapted the code from https://github.com/PieSquared/TTTsaboard/blob/main/Firmware/FW.ino#L47C4-L49C7
+This project is coded in C++ and ran on the arduino IDE. 
+
+## BOM
+These are the components used in the Slab Clock:
+
+- 4x Cherry MX Switches.
+- 4x DSA Keycaps.
+- 1x Seeed XIAO ESP32C3
+- 1x 2.25in TFT Screen
+- 1x 3.3V Piezo Buzzer
+- 1x 2.54mm 8 Pin Male Header
+- 8x 20cm Female-Female Jumper Wires
+- 8x M3x5x4 Heatset Inserts
+- 4x M3x8mm Screws
+- 4x M3x16mm Screws
+- 1x 3D-printed case (2 parts)
